@@ -1,9 +1,9 @@
-# Code_Talkz
+# Sodra Tech
 
-Welcome to code_talkz – where code speaks volumes!
+Welcome to SodraTech – where code speaks volumes!
 
 ## About Us
-code_talkz is a dynamic community of developers who share a common passion for coding and innovation. This organization is dedicated to fostering collaboration, knowledge-sharing, and creating a supportive environment for developers of all levels.
+SodraTech is a dynamic community of developers who share a common passion for coding and innovation. This organization is dedicated to fostering collaboration, knowledge-sharing, and creating a supportive environment for developers of all levels.
 
 ## Mission Statement
 Empowering developers to connect, learn, and grow together through meaningful conversations and shared experiences in the world of coding.
@@ -21,6 +21,6 @@ Empowering developers to connect, learn, and grow together through meaningful co
 We value diversity and inclusivity. Please review our [Code of Conduct] to ensure a positive and respectful environment for all members.
 
 ## Let's Code Together!
-Join us on this exciting journey where every line of code is a conversation starter. Let's amplify the language of technology at code_talkz!
+Join us on this exciting journey where every line of code is a conversation starter. Let's amplify the language of technology at SodraTech!
 
 Happy Coding! 👩‍💻👨‍💻
